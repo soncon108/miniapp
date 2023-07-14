@@ -3,5 +3,6 @@
   "convert": "ConvertToMoney",
   "chess": "ChessBoard",
   "calculator": "Calculator",
-  "pomodoro": "Pomodoro"
+  "pomodoro": "Pomodoro",
+  "quote": "Quotes"
 }
